@@ -44,7 +44,7 @@
   "songstatsSourceAudit": {
     "releaseBase": "8.4.1",
     "upstreamBase": "6f9090ce1b991c0acc2a6f5dc8bea838deaf4f7a",
-    "sourceCommit": "bf294b17578eace1e54a6a37d009e6b01b4cb55e",
+    "sourceCommit": "d9767379230b250e42dbe2733fc050157b19df6c",
     "pullRequests": [
       "https://github.com/FormidableLabs/react-native-app-auth/pull/1128",
       "https://github.com/FormidableLabs/react-native-app-auth/pull/1129",
